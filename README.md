@@ -5,6 +5,7 @@ Innovation Cloud want to create a Rails app to collect email signups. At the bot
 Using the request/response cycle as a guide, here’s what we need to do for the Innovation Cloud app:
 
 - In the first turn of the request/response cycle, the signup form is displayed to the user.
+
 - When the user fills in the form with an email and submits it, it triggers the second turn of the request/response cycle, where the email data is saved into the database.
 
 ### Technologies
