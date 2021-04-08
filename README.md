@@ -13,4 +13,6 @@ Using the request/response cycle as a guide, here’s what we need to do for the
 - Rails
 - Command Line
 - Visual Studio Code
-- Git 
+- Git
+- HTML
+- CSS
