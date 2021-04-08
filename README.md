@@ -11,4 +11,5 @@ Using the request/response cycle as a guide, here’s what we need to do for the
 - Ruby
 - Rails
 - Command Line
-- Visual Studio Code 
+- Visual Studio Code
+- Git 
